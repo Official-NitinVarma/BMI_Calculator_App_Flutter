@@ -1,16 +1,16 @@
-# week_one_application
+# First Application created using Flutter
 
-A new Flutter project.
+This is my first Application that I have created using Flutter.
 
-## Getting Started
+## BMI Calculator
+This application calculates your Body Mass Index and tell you how fit you are.
+You can downlaod the .apk file using below link.
 
-This project is a starting point for a Flutter application.
+[Install the BMI application](https://github.com/Official-NitinVarma/week_one_application/blob/master/app-release.apk)
 
-A few resources to get you started if this is your first Flutter project:
+This is a raw application. The codes can contain useless comments and some images that were used to learn concepts and for trial purpose.
+A Validator is used in AGE TEXTFIELD, that restrict you calculaing your BMI if your age is below 15
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ScreenShorts of the Application:<br>
+<img src="https://user-images.githubusercontent.com/86908056/152161738-e38cd8ef-d874-4fb0-89b5-417e94027d31.jpg" alt="Error while Loding the Image" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/86908056/152161756-ed9a4ff3-5e25-469c-96ed-61e6bbdcb274.jpg" alt="Error while Loding the Image" width="300" height="600">
