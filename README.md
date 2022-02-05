@@ -6,7 +6,7 @@ This is my first Application that I have created using Flutter.
 This application calculates your Body Mass Index and tell you how fit you are.
 You can downlaod the .apk file using below link.
 
-[Install the BMI application](https://github.com/Official-NitinVarma/week_one_application/blob/master/app-release.apk)
+[Install the application](https://github.com/Official-NitinVarma/BMI_Calculator_App_Flutter/blob/master/app-release.apk?raw=true)
 
 This is a raw application. The codes can contain useless comments and some images that were used to learn concepts and for trial purpose.
 A Validator is used in AGE TEXTFIELD, that restrict you calculaing your BMI if your age is below 15
